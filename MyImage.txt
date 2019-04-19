@@ -1,0 +1,15 @@
+// String magicNumber = sc.readLine();
+// int columns = sc.nextInt();
+// int rows = sc.nextInt();
+// int maxColorValue = sc.nextInt();
+import java.io.File;
+import java.io.IOException;
+import java.awt.image.BufferedImage;
+import java.imageio.ImageIO;
+import java.util.Scanner;
+
+public class MyImage{
+    public static void main(String args[])throws IOException{
+        
+    }
+}
